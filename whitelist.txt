@@ -2,11 +2,11 @@
   "users": [
     {
       "username": "Ezio",
-      "password": "password123"
+      "password": "C4NxJ8PA#jfJa5G6"
     },
     {
-      "username": "Moderator1",
-      "password": "securePass!"
+      "username": "mixed_game",
+      "password": "Zhu0Gr9!WHFHpT46"
     }
   ]
 }
