@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "username": "Ezio",
+      "password": "C4NxJ8PA#jfJa5G6"
+    },
+    {
+      "username": "Lotus",
+      "password": "1VH%zp7TCvv8x2Pw"
+    },
+    {
+      "username": "mixed_game",
+      "password": "Zhu0Gr9!WHFHpT46"
+    }
+  ]
+}
