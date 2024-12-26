@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "username": "Ezio",
+      "username": "Pixxilix",
       "password": "C4NxJ8PA#jfJa5G6"
     },
     {
