@@ -13,6 +13,10 @@
       "password": "J8xa&eYFZcE8uwyz"
     },
     {
+      "username": "Zappy",
+      "password": "7xUt8$1QY60kMXJ#"
+    },
+    {
       "username": "mixed_game",
       "password": "Zhu0Gr9!WHFHpT46"
     }
