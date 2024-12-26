@@ -1,5 +1,5 @@
 {
-  "modo": [
+  "users": [
     {
       "username": "Ezio",
       "password": "C4NxJ8PA#jfJa5G6"
