@@ -9,6 +9,10 @@
       "password": "1VH%zp7TCvv8x2Pw"
     },
     {
+      "username": "kyokadono",
+      "password": "lQ19/39FB1731.(MMB)0"
+    },
+    {
       "username": "Pixxilix",
       "password": "J8xa&eYFZcE8uwyz"
     },
