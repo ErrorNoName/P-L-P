@@ -21,6 +21,10 @@
       "password": "7xUt8$1QY60kMXJ#"
     },
     {
+      "username": "Mr_Ghost_rider",
+      "password": "Q@7brVPgG9@buPBX"
+    },
+    {
       "username": "mixed_game",
       "password": "Zhu0Gr9!WHFHpT46"
     }
