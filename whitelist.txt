@@ -25,6 +25,10 @@
       "password": "Q@7brVPgG9@buPBX"
     },
     {
+      "username": "yurieklips",
+      "password": "280709mL!"
+    },
+    {
       "username": "mixed_game",
       "password": "Zhu0Gr9!WHFHpT46"
     }
